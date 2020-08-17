@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeStamp</string>
+    <string name="show">Show</string>
+    <string name="hint">Time stamp will be shown below</string>
+</resources>
